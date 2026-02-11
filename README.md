@@ -104,7 +104,7 @@ https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 
 ### Clone Repository
 
-git clone https://github.com/yourusername/retail-predictive-analytics.git  
+git clone https://github.com/MadhuShree-A/retail-predictive-analytics.git  
 cd retail-predictive-analytics
 
 ### Create Virtual Environment
