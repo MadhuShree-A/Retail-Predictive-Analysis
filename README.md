@@ -20,7 +20,7 @@ This project analyzes retail transaction data to generate actionable business in
 ---
 
 ## 📂 Project Structure
-
+```text
 retail-predictive-analytics/
 │
 ├── data/
@@ -71,7 +71,7 @@ retail-predictive-analytics/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 ---
 
 ## 🛠 Technology Stack
