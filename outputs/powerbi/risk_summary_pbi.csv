@@ -1,0 +1,4 @@
+Risk_Category,Customer_Count,Total_Revenue,Avg_Probability
+High Risk,3049,2990742.108,0.92277455
+Low Risk,2572,13799466.92,0.022758054
+Medium Risk,257,584595.24,0.4595067
