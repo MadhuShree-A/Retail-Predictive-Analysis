@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes retail transaction data to generate actionable business insights using machine learning and business intelligence tools.
 
